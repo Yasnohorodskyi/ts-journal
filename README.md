@@ -1,1 +1,1 @@
-# Typescript with Vue.js 3 Cours
+# Typescript with Vue.js 3
